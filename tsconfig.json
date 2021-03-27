@@ -1,0 +1,10 @@
+{
+  "extends": "@quasar/app/tsconfig-preset",
+  "compilerOptions": {
+    "baseUrl": "."
+  },
+  "paths": {
+    "@/*": ["src/*"]
+  },
+  "files": ["custom.d.ts"]
+}

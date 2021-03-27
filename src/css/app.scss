@@ -1,0 +1,30 @@
+// app global css in SCSS form
+@font-face {
+  font-family: mainFont;
+  src: url('./fonts/Poiretone-Regular.ttf');
+}
+.main-font {
+  font-family: 'mainFont';
+  color: #518af6;
+  font-size: 80px;
+}
+
+.title {
+  font-family: 'mainFont';
+  color: #518af6;
+}
+
+.side-menu-title {
+  font-family: 'mainFont';
+  color: #535353;
+  font-size: 24px;
+}
+
+.input-text {
+  font-size: 24px;
+}
+
+.page-title {
+  font-size: 36px;
+  color: #8ab1f9;
+}
