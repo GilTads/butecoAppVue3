@@ -1,9 +1,9 @@
 {
-  "name": "buteco-app-web",
+  "name": "buteco-app",
   "version": "0.0.1",
   "description": "A Quasar Framework app",
   "productName": "Quasar App",
-  "author": "Gil Santos",
+  "author": "GilTads <gil.tads@gamil.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.ts,.vue ./",
@@ -17,12 +17,12 @@
   },
   "devDependencies": {
     "@quasar/app": "^3.0.0-beta.1",
-    "@types/node": "^14.14.35",
-    "@typescript-eslint/eslint-plugin": "^4.9.0",
-    "@typescript-eslint/parser": "^4.9.0",
+    "@types/node": "^10.17.15",
+    "@typescript-eslint/eslint-plugin": "^4.16.1",
+    "@typescript-eslint/parser": "^4.16.1",
     "babel-eslint": "^10.0.1",
     "eslint": "^7.14.0",
-    "eslint-config-prettier": "^6.15.0",
+    "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-vue": "^7.0.0"
   },
   "browserslist": [
